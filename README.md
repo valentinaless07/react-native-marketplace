@@ -22,6 +22,4 @@
    ```sh
    expo start
 
-## Expo Demo
-<img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" />
 
